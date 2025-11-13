@@ -16,8 +16,8 @@ var goalCredentials = [
 var answersGoal = [
   {
     answerOne: "midnight",
-    answerTwo: "waterford",
-    answerThree: "madison"
+    answerTwo: "erie",
+    answerThree: "garcia"
   }
 ]
 
