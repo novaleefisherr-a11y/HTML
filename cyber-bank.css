@@ -42,7 +42,7 @@ label {
 input {
     display: block;
     width: 100%;
-    margin-bottom: 15px;
+    margin-top: 15px;
     padding: 10px;
     box-sizing: border-box;
     border: 1px solid #d5d2c2;
@@ -71,3 +71,23 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+.back {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    display: relative;
+    justify-content: center;
+    align-items: center;
+    color: #dacdc0;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #61754e;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
